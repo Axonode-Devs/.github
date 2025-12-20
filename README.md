@@ -28,7 +28,7 @@ We don't just write code; we solve real-world problems. We research the challeng
 
 ### 📩 Contact
 
-* **Discord** [discord](https://discord.gg/wdyDSkjVEv)
+* **Discord** [Discord/Axonode](https://discord.gg/wdyDSkjVEv)
 
 ---
 ⭐️ Please star the repo if you like it!
