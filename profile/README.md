@@ -6,6 +6,7 @@
 We are a high-impact, focused community of developers, creators, and problem solvers. The core purpose of this community is to go beyond individual efforts and merge the talents of all members into a shared goal. Our priority is not focused on outside projects or personal works; instead, we concentrate on building and managing projects from scratch together under the community's umbrella. We manage every step, from ideation to deployment, with collective discipline and dedicate our energy entirely to the products we develop as a community.
 
 ---
+
 <img width="1920" height="200" alt="Image" src="https://github.com/user-attachments/assets/0a933873-fcfe-461a-9f63-4b949650506d" />
 
 ---
