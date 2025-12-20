@@ -28,10 +28,7 @@ We don't just write code; we solve real-world problems. We research the challeng
 
 ### 📩 Contact
 
-* **LinkedIn:** [linkedin.com/in/kullaniciadi](https://linkedin.com/in/kullaniciadi)
-* **E-posta:** [eposta@adresiniz.com](mailto:eposta@adresiniz.com)
-* **Web Sitesi:** [www.portfolyonuz.com](https://www.portfolyonuz.com)
-* **Twitter/X:** [@kullaniciadi](https://twitter.com/kullaniciadi)
+* **Discord** [discord](https://discord.gg/wdyDSkjVEv)
 
 ---
 ⭐️ Please star the repo if you like it!
