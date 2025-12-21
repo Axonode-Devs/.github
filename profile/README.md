@@ -7,10 +7,6 @@ We are a small team of developers working together to go beyond individual effor
 
 ---
 
-
-
----
-
 ### ⁉️ What We Do?
 
 We build projects together from scratch and aim to carry them through to completion. Our work mainly revolves around web development, full-stack systems, and developer tooling that addresses real needs.
