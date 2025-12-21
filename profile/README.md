@@ -7,7 +7,7 @@ We are a small team of developers working together to go beyond individual effor
 
 ---
 
-<img width="1920" height="200" alt="Image" src="https://github.com/user-attachments/assets/0a933873-fcfe-461a-9f63-4b949650506d" />
+
 
 ---
 
