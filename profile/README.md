@@ -16,7 +16,7 @@ Instead of chasing trends, we choose technologies that best fit the problem at h
 ---
 
 ### 🔧 Our Projects
-AxoNode JS Runtime : Work In Progress..(LMAOOOOOOOOOOOOOOOOO)
+
 
 But Really WIP for now..
 
