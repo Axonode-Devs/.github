@@ -1,4 +1,4 @@
-# <img width="50" height="50" alt="Image" src="https://github.com/user-attachments/assets/6e6caea9-0f42-47f0-ad7d-b5dce5fbc9f5" align="center" /> Meet The Axonode Team!
+# <img width="50" height="50" alt="Image" src="https://github.com/user-attachments/assets/6e6caea9-0f42-47f0-ad7d-b5dce5fbc9f5" align="center" /> Meet with The Axonode Team!
 
 <img width="1920" height="600" alt="Image" src="https://github.com/user-attachments/assets/6cd3b3b5-9805-465c-be42-dcbee30f1b1c" />
 
