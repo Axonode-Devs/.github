@@ -1,4 +1,4 @@
-# <img width="50" height="50" alt="Image" src="https://github.com/user-attachments/assets/6e6caea9-0f42-47f0-ad7d-b5dce5fbc9f5" align="center" /> Meet with The Axonode Team!
+# <img width="50" height="50" alt="Image" src="https://github.com/user-attachments/assets/6e6caea9-0f42-47f0-ad7d-b5dce5fbc9f5" align="center" /> Meet The Axonode Software Development Team!
 
 <img width="1920" height="600" alt="Image" src="https://github.com/user-attachments/assets/6cd3b3b5-9805-465c-be42-dcbee30f1b1c" />
 
@@ -15,18 +15,17 @@ Instead of chasing trends, we choose technologies that best fit the problem at h
 
 ---
 
-### 🔧 Our Projects
+### Our Projects
 
-
-But Really WIP for now..
+Wavefy : An open-source music player app that also supports social interactions!
+Intent : A Productivy App Focused around simplicity.
 
 ---
 
 ![Image](https://github.com/user-attachments/assets/8f066911-3cef-4fc2-9b49-d0e9214bbb4c)
 
-### 📩 Contact
+### Contact
 
-* **General-Contact-Mail** axonodedev@gmail.com
-* **Kairos** yaserdurubi1209@gmail.com
+* **General-Contact-Mail** info@axonode.org
 
 ---
