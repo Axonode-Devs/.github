@@ -2,22 +2,20 @@
 
 <img width="1920" height="600" alt="Image" src="https://github.com/user-attachments/assets/6cd3b3b5-9805-465c-be42-dcbee30f1b1c" />
 
-### 📖 About
+### About
 We are a small team of developers working together to go beyond individual efforts and combine our skills toward shared goals. Our focus is not on personal gain or isolated work, but on building and planning projects collectively. From ideation to deployment, we approach every step as a team and dedicate our energy to what we create together.
 
 ---
 
-### ⁉️ What We Do?
+### What We Do?
 
 We build projects together from scratch and aim to carry them through to completion. Our work mainly revolves around web development, full-stack systems, and developer tooling that addresses real needs.
-
-Instead of chasing trends, we choose technologies that best fit the problem at hand. Our focus is on learning through building, iterating as a team, and improving our approach with every project.
 
 ---
 
 ### Our Projects
 
-Wavefy : An open-source music player app that also supports social interactions!
+Wavefy : An open-source music player app that also supports social interactions!  
 Intent : A Productivy App Focused around simplicity.
 
 ---
@@ -29,3 +27,6 @@ Intent : A Productivy App Focused around simplicity.
 * **General-Contact-Mail** info@axonode.org
 
 ---
+
+**Axonode Devs are a part of Axonode Organization : [Axonode Home Page](https://axonode.org)**
+
