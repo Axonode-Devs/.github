@@ -1,6 +1,5 @@
-
-
 <img width="1920" height="600" alt="Image" src="https://github.com/user-attachments/assets/6cd3b3b5-9805-465c-be42-dcbee30f1b1c" />
+
 # Meet The Axonode Software Development Team!
 
 ### About
