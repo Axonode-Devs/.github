@@ -1,6 +1,7 @@
-# <img width="50" height="50" alt="Image" src="https://github.com/user-attachments/assets/6e6caea9-0f42-47f0-ad7d-b5dce5fbc9f5" align="center" /> Meet The Axonode Software Development Team!
+
 
 <img width="1920" height="600" alt="Image" src="https://github.com/user-attachments/assets/6cd3b3b5-9805-465c-be42-dcbee30f1b1c" />
+# Meet The Axonode Software Development Team!
 
 ### About
 We are a small team of developers working together to go beyond individual efforts and combine our skills toward shared goals. Our focus is not on personal gain or isolated work, but on building and planning projects collectively. From ideation to deployment, we approach every step as a team and dedicate our energy to what we create together.
